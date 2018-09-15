@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ game()
+comment1.params=player1\ AITurn
+comment1.target=void\ playerMove(boolean,\ boolean)
+comment2.params=player1\ AITurn
+comment2.target=void\ printTurn(boolean,\ boolean)
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int[]\ move()
+comment1.params=way\ AIBoard\ playerBoard\ checkedPlayer
+comment1.target=int[]\ checkAndEvaluate(int,\ java.lang.String[][],\ java.lang.String[][],\ boolean)
+comment2.params=indication\ xy
+comment2.target=int\ findOpenSpaceWhen(java.lang.String,\ int)
+numComments=3
